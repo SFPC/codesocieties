@@ -21,7 +21,8 @@
 
 # Lectures
 
-### Smart Home - Lauren McCarthy
+### Smart Home
+Lauren McCarthy
 - July 3rd, 10th
 - https://github.com/lmccart/Smart-Home
 
@@ -35,13 +36,14 @@ terms, with each person contributing a device, gesture, piece of furniture,
 ritual, etc of their design to create an installation throughout sfpc's space.
 
 
-### Lecture and Discussion - Danah Boyd
+### Lecture and Discussion
+Danah Boyd
 - July 5th
 
 Description TBD
 
 
-### Authoring text under control: from automatic writing to autocomplete -
+### Authoring text under control: from automatic writing to autocomplete 
 Allison Parrish
 - July 6th, 9th, 18th
 - https://gist.github.com/aparrish/84067a801d840ceef190053cec1266e7
@@ -65,7 +67,8 @@ tech tutorials. We'll also set aside some time for workshopping of student work
 as needed.
 
 
-### Diversity & Inclusion in Surveillance AI - Sarah Aoun
+### Diversity & Inclusion in Surveillance AI
+Sarah Aoun
 - July 11th
 - https://gist.github.com/saoun/5465ce56b684f463d136ba0e863c3cf8
 
@@ -80,7 +83,8 @@ tools. Addressing these tensions, this class will explore tools of surveillance
 and whom they target, the social and political implications of AI development,
 and the unintended effects that diversity and inclusion might have.
 
-### Software as Ideology - American Artist
+### Software as Ideology
+American Artist
 - July 12th
 - https://github.com/0ld-h3ad/SFPC-code-societies
 
@@ -95,8 +99,8 @@ software development as well as ideology.
 ### [TBD] - Melanie Hoff & Dan Taeyoung
 - July 13th
 
-### Sorting Things Out: Classifications, Ontologies, Data Models, Knowledge
-Graphs - Shannon Mattern
+### Sorting Things Out: Classifications, Ontologies, Data Models, Knowledge Graphs
+Shannon Mattern
 - July 16th, 17th
 
 We sort things into piles, put things onto shelves, build folders on desktops,
@@ -111,7 +115,8 @@ systems, encoded in computational form, code particular societies into being.
 How might we develop aspirational ontologies that help us to imagine more just,
 inclusive, peaceful societies?
 
-### Distributed Web of Care - Taeyoon Choi
+### Distributed Web of Care
+Taeyoon Choi
 - July 18th
 - https://github.com/tchoi8/distributedwebofcare/blob/codesocietie/README.md
 
