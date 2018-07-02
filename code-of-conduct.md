@@ -2,6 +2,8 @@
 
 Adapted from [SFPC CoC](https://github.com/SFPC/codeofconduct/blob/master/README.md)
 
+Please be respectful of eachothers time by being on time to class
+
 In Code Societies, we
 - Take up space mindfully
 - Embrace awkward silences
