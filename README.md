@@ -112,6 +112,7 @@ Social Network Paintings is an exploration of the most common representations of
 ### Sorting Things Out: Classifications, Ontologies, Data Models, Knowledge Graphs
 Shannon Mattern
 - July 16th, 17th
+- https://docs.google.com/document/d/1riZTAquDnjMzM_gHm3gZobxnuitBwAEXaX68AhLTKNY/edit?usp=sharing
 
 We sort things into piles, put things onto shelves, build folders on desktops,
 and check boxes on forms that identify (or approximate) our gender, race, and,
