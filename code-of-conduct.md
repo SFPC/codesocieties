@@ -1,5 +1,7 @@
 # Code of Conduct at The School for Poetic Computation 
 
+Adapted from [SFPC CoC](https://github.com/SFPC/codeofconduct/blob/master/README.md)
+
 In SFPC, we 
 - Work openly
 - Be generous
