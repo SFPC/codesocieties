@@ -1,11 +1,10 @@
 # Code Societies Summer 2018
 
+![Code Societies Logo](assets/codesocieties.jpg)
+
 - 3 Week Session, Monday July 1st - Saturday July 21st
 - @ SFPC, 155 Bank street, West Village, NYC
 - 6:30pm - 9:30pm, Monday to Friday
-
-![Code Societies Logo](assets/codesocieties.jpg)
-
 
 # Teachers
 
