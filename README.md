@@ -18,7 +18,7 @@
 - Shannon Mattern
 - Taeyoon Choi
 
-# Lectures
+# Classes
 
 ### Smart Home
 Lauren McCarthy
