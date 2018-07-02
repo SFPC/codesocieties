@@ -6,6 +6,23 @@
 - @ SFPC, 155 Bank street, West Village, NYC
 - 6:30pm - 9:30pm, Monday to Friday
 
+#### Description
+Code Societies will examine the ideological and mythological attributes of
+computation, concentrating on the poetics and politics of culturally embedded
+software. How do different platforms and processes — including algorithms, data
+collection, social media, networks, simulation, and ritual — yield distinct
+modes of seeing, thinking, and feeling, structure social organization, and
+reinforce existing systems of power? Through a balanced study of critical theory
+and hands-on making workshops, students will create several small projects that
+explore and question these ideas. Students will be introduced to Python and
+discover poetic, playful, and powerful ways to use computation. All levels of
+programming ability welcome and an enthusiastic willingness to reconsider how
+code shapes and is shaped by society required!
+
+Code Societies Summer 2018 session is organized by Melanie Hoff and the teaching
+assistant is Ying Quan Tan.
+
+
 # Teachers
 
 - Allison Parrish
@@ -42,7 +59,7 @@ Danah Boyd
 Description TBD
 
 
-### Authoring text under control: from automatic writing to autocomplete 
+### Authoring text under control: from automatic writing to autocomplete
 Allison Parrish
 - July 6th, 9th, 18th
 - https://gist.github.com/aparrish/84067a801d840ceef190053cec1266e7
