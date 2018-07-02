@@ -2,9 +2,15 @@
 
 Adapted from [SFPC CoC](https://github.com/SFPC/codeofconduct/blob/master/README.md)
 
+In Code Societies, we
+- Take up space mindfully
+- Embrace awkward silences
+- Share risky thoughts
+- Cultivate a willingness to make mistakes, to admit when we have, and to practice forgiveness for ourselves and each other 
+
 In SFPC, we 
 - Work openly
-- Be generous
+- Are generous
 - Value full-time participation. What you put into this you will get out of it 
 - Speak with respect, assume the most respectful interpretation 
 - Step up, step back
