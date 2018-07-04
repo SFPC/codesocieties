@@ -27,7 +27,7 @@ assistant is Ying Quan Tan.
 
 - Allison Parrish
 - American Artist
-- Danah Boyd
+- danah boyd
 - Dan Taeyoung
 - Lauren McCarthy
 - Melanie Hoff
@@ -52,8 +52,8 @@ terms, with each person contributing a device, gesture, piece of furniture,
 ritual, etc of their design to create an installation throughout sfpc's space.
 
 
-### Lecture and Discussion
-Danah Boyd
+### Hacking the Attention Economy, Amplifying Discord and Hate
+danah boyd
 - July 5th
 
 Description TBD
