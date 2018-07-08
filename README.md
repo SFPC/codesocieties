@@ -56,8 +56,6 @@ ritual, etc of their design to create an installation throughout sfpc's space.
 danah boyd
 - July 5th
 
-Description TBD
-
 
 ### Authoring text under control: from automatic writing to autocomplete
 Allison Parrish
