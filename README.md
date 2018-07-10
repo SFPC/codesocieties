@@ -37,10 +37,10 @@ assistant is Ying Quan Tan.
 
 # Classes
 
-### Smart Home
+### Smarter Home
 Lauren McCarthy
 - July 3rd, 10th
-- https://github.com/lmccart/Smart-Home
+- https://github.com/lmccart/Smarter-Home
 
 We will explore home as a place, as an identity, as a practice, and as a series
 of rituals. What makes someone feel "at home" in a space or in a community (both
