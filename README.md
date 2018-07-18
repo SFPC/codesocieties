@@ -145,7 +145,7 @@ inclusive, peaceful societies?
 ### Distributed Web of Care
 Taeyoon Choi
 - July 18th
-- https://github.com/tchoi8/distributedwebofcare/blob/codesocietie/README.md
+- https://github.com/tchoi8/distributedwebofcare/tree/codesocieties
 
 Distributed Web of Care is an initiative to code to care and code carefully. In
 this class, we will investigate centralized, decentralized, distributed and peer
