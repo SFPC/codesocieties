@@ -55,7 +55,7 @@ ritual, etc of their design to create an installation throughout sfpc's space.
 ### Hacking the Attention Economy, Amplifying Discord and Hate
 danah boyd
 - July 5th
-
+- https://datasociety.net/
 
 ### Authoring text under control: from automatic writing to autocomplete
 Allison Parrish
