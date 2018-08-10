@@ -41,6 +41,7 @@ assistant is Ying Quan Tan.
 Lauren McCarthy
 - July 3rd, 10th
 - https://github.com/lmccart/Smarter-Home
+- [Blog Post](https://medium.com/sfpc/smarter-home-baeed9dbd512)
 
 We will explore home as a place, as an identity, as a practice, and as a series
 of rituals. What makes someone feel "at home" in a space or in a community (both
@@ -56,11 +57,13 @@ ritual, etc of their design to create an installation throughout sfpc's space.
 danah boyd
 - July 5th
 - https://datasociety.net/
+- [Blog Post](https://medium.com/sfpc/code-societies-2018-day-3-danah-boyd-f928ef747087)
 
 ### Authoring text under control: from automatic writing to autocomplete
 Allison Parrish
 - July 6th, 9th, 18th
 - https://gist.github.com/aparrish/84067a801d840ceef190053cec1266e7
+- [Blog Post](https://medium.com/sfpc/authoring-text-under-control-from-automatic-writing-to-autocomplete-673df0593bfa)
 
 "Automatic writing" refers to a process in which an author produces writing
 effortlessly, without apparent conscious awareness. Psychologists study
@@ -85,6 +88,7 @@ as needed.
 Sarah Aoun
 - July 11th
 - https://gist.github.com/saoun/5465ce56b684f463d136ba0e863c3cf8
+- [Blog Post](https://medium.com/sfpc/diversity-inclusion-in-surveillance-ai-12d6be789f5f)
 
 Facial recognition and diversity have not gone together seamlessly. On the one
 hand, despite the popular rise of facial recognition technology over the past
@@ -101,6 +105,7 @@ and the unintended effects that diversity and inclusion might have.
 American Artist
 - July 12th
 - https://github.com/0ld-h3ad/SFPC-code-societies
+- [Blog Post](https://medium.com/sfpc/software-as-ideology-6ad1091ef929)
 
 Expanding on Wendy Hui Kyong Chun’s theory of software as an analogy for
 ideology, we will look in depth at Alexander Galloway’s take on the idea, which
